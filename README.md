@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything in Python
 - 📫 How to reach me:  Twitter
 - 😄 Pronouns: He/His
--⚡ Fun fact: The language Python was not named after the snake 'Python'.
+- ⚡ Fun fact: The language Python was not named after the snake 'Python'.
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Deerah1234) 
