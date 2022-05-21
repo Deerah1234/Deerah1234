@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The language Python was not named after the snake 'Python'.
 -->
-
-
 <h1 align="center">Hi👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate Python developer.</h3>
 
