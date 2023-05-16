@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=435&lines=My+Technologies+%E2%9A%99;Python;C;JavaScript;TypeScript;React;HTML;CSS;Skills%3A;Open-minded;Positive;Teaching+tech;Team+Player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=600&color=26A641&center=true&vCenter=true&width=500&height=100&lines=My+Technologies+%E2%9A%99;Python;C;JavaScript;TypeScript;React;HTML;CSS;Skills%3A;Open-minded;Positive;Teaching+tech;Team+Player)](https://git.io/typing-svg)
 
 <!--
 **Deerah1234/Deerah1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
