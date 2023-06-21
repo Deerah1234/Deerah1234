@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=600&color=26A641&center=true&vCenter=true&width=1000&height=100&lines=My+Technologies+%E2%9A%99;Python;C;JavaScript;TypeScript;React;HTML;CSS;Skills+%F0%9F%A4%B9;Open-minded;Positive;Teaching+tech;Team+Player;More+to+come...+%F0%9F%98%81;Please%2C+do+check+out+my+projects+%F0%9F%99%8F;+mines+allot+to+me+%F0%9F%AB%82;I+appreciate+your+time+%F0%9F%A4%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=600&color=36BCF7FF&center=true&vCenter=true&width=1000&height=100&lines=My+Technologies+%E2%9A%99;Python;C;JavaScript;TypeScript;React;HTML;CSS;Skills+%F0%9F%A4%B9;Open-minded;Positive;Teaching+tech;Team+Player;More+to+come...+%F0%9F%98%81;Please%2C+do+check+out+my+projects+%F0%9F%99%8F;+mines+allot+to+me+%F0%9F%AB%82;I+appreciate+your+time+%F0%9F%A4%8D)](https://git.io/typing-svg)
 
 <!--
 **Deerah1234/Deerah1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
