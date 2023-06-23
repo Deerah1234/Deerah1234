@@ -5,9 +5,13 @@
 
 <!-- Social badges section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="32" alt="twitter logo"  />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="44" height="32" alt="twitch logo"  />
+  <a href="https://twitter.com/0xdeerah">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="32" alt="twitter logo"  />
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  </a>
+  <a href="https://twitch.tv/0xdeerah">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="44" height="32" alt="twitch logo"  />
+  </a>
 </div>
 
 ###
