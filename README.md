@@ -28,9 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash logo"  />
 </div>
 <br >
-<br >
-<br >
-<br >
+
 
 <!-- ✍️Random Dev Quote -->
 <div align="center">
