@@ -39,7 +39,7 @@ I'm self-taught and enjoy studying new technologies while constantly expanding m
 ### Development Tools
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,figma,postman,git,github" alt="VS Code, Visual Studio, Android Studio, Figma, Postman, Git, GitHub" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,github" alt="VS Code, Android Studio, Postman, Git, GitHub" />
   </a>
 </p>
 
