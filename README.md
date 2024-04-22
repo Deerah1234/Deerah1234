@@ -6,38 +6,56 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969da&center=true&vCenter=true&width=440&height=45&lines=Software+Engineer;Always+learning+new+things;Still+on+the+journey..." alt="Typing SVG" /></a>
 </p>
 
-<!-- Social badges section -->
-<div align="center" >
-  <a href="https://twitter.com/0xdeerah">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="32" alt="Twitter"  />
+## 👤 About Me
+
+I'm a passionate software engineer based in Nigeria, currently working remotely. </br>
+I write blogs, solve problems, and create beautiful user interfaces for clients, personal brands, and companies. </br>
+I'm self-taught and enjoy studying new technologies while constantly expanding my skills. </br>
+
+
+## 🛠️ Languages and Tools
+
+### Frontend Technologies
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,nextjs,bootstrap" alt="HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, Bootstrap" />
   </a>
-  
-  <a href="https://twitch.tv/0xdeerah">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="44" height="32" alt="Twitch"  />
+</p>
+
+### Backend Technologies
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
   </a>
-</div>
+</p>
 
-<br>
+### Programming Languages
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,bash,powershell" alt="Python, C, Bash, PowerShell" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="Bash"  />
-</div>
+### Development Tools
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,figma,postman,git,github" alt="VS Code, Visual Studio, Android Studio, Figma, Postman, Git, GitHub" />
+  </a>
+</p>
 
-<br>
+## 💌 Contact
 
-<!-- ✍️ Random Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+<p align="start">
+   <a href="https://github.com/Deerah1234" target="__blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+   <a href="https://0xdeerah.medium.com/" target="__blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+   <a href="https://linkedin.com/in/0xdeerah" target="__blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.twitter.com/0xdeerah"  target="__blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
