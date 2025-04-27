@@ -42,20 +42,3 @@ I'm self-taught and enjoy studying new technologies while constantly expanding m
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,github" alt="VS Code, Android Studio, Postman, Git, GitHub" />
   </a>
 </p>
-
-## 💌 Contact
-
-<p align="start">
-   <a href="https://github.com/Deerah1234" target="__blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-   <a href="https://0xdeerah.medium.com/" target="__blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-   <a href="https://linkedin.com/in/0xdeerah" target="__blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.twitter.com/0xdeerah"  target="__blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
